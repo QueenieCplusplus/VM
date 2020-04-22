@@ -8,7 +8,11 @@ this topic aims at how to create and manage a VM, and config the VM network, and
 
 * Host Server (a.k.a VM host) share resoures with all VM.
 
-* to allow to detach pc hosting a sevice from the hardware it is running on
+* to allow to detach pc hosting a sevice from the hardware it is running on.
+
+* all the server workload can run on VM.
+
+* to share resources to VM and reduce the physically deployment.
 
 # Basic:
 
