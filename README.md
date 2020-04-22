@@ -2,7 +2,15 @@
 
 this topic aims at how to create and manage a VM, and config the VM network, and protect its storage infra. VM can provide high availability for Hyper-V env by implementing failover clustering (故障移轉的叢集).
 
-Basic:
+# Server Virtualization
+
+* to enable a physical pc(Host) to run multi-OS (PCs)
+
+* Host Server (a.k.a VM host) share resoures with all VM.
+
+* to allow to detach pc hosting a sevice from the hardware it is running on
+
+# Basic:
 
 TCP/IP, Network
 
@@ -18,7 +26,7 @@ Service
 
 ------------------------------------------------------------------
 
-Main Steps:
+# Main Steps:
 
 (1) Evaluation of Env
 
