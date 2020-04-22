@@ -18,7 +18,13 @@ this topic aims at how to create and manage a VM, and config the VM network, and
 
 * Client-Side
 
+  it allows user to run virtualization instance of ready-to-go os and apps.
+
 * VDI, (Interface)
+
+ 1) it reduces hardware cost.
+ 
+ 2) user can run their app and access data on the VM  from any other devices that support "Remote Desktop Client Software"
 
 # Basic:
 
