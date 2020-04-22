@@ -14,6 +14,12 @@ this topic aims at how to create and manage a VM, and config the VM network, and
 
 * to share resources to VM and reduce the physically deployment.
 
+# Virtual Desktop
+
+* Client-Side
+
+* VDI, (Interface)
+
 # Basic:
 
 TCP/IP, Network
