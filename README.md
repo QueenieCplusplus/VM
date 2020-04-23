@@ -46,7 +46,7 @@ Service
 
 (1) Evaluation of Env
 
-(2) Install VM
+(2) Install VM 
 
 (3) Create VM and its vHard Disk
 
