@@ -52,6 +52,8 @@ Service
 
 (4) Create its Network and config it
 
+https://github.com/QueenieCplusplus/VM_Network
+
 (5) Storage Infra Replica
 
 (6) Failover Clustering
