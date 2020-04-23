@@ -58,6 +58,8 @@ https://github.com/QueenieCplusplus/VM_Network
 
 (6) Failover Clustering
 
+https://github.com/QueenieCplusplus/VM_Cluster
+
 (7) Cloud
 
 (8) Service
